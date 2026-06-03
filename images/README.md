@@ -1,3 +1,3 @@
-# Xschem Schematics
+# Images
 
-Maintain and document all the xschem schematics here.
+All lab based images are kept here.
