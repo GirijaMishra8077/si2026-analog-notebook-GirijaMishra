@@ -50,6 +50,15 @@
 - Analyzed experimental results and compared them with theoretical and simulation-based expectations.
 
 ## Day 8 (June 3, Wednesday)
-- Studied the introduction to passive electronic components and their role in circuit design.
-- Learned the derivation and fundamental characteristics of resistors (R), capacitors (C), and inductors (L).
-- Explored energy band diagrams in semiconductors and understood their significance in IC device operation.
+- Studied passive IC devices, including resistors, capacitors, and their implementation in integrated circuits.
+- Learned the fundamentals of semiconductor materials and charge carrier behavior.
+- Explored concepts such as energy bands, conductivity, and doping in semiconductors.
+- Performed laboratory simulations of the Microphone Analog Front-End (AFE) using xschem-ngspice.
+- Analyzed the performance of the microphone AFE circuit through schematic design and simulation results
+
+## Day 9 (June 4, Thursday)
+- Studied the operating characteristics of MOSFET devices and their importance in IC design.
+- Learned the current-voltage equations governing MOSFET operation.
+- Analyzed MOSFET behavior in cutoff, triode (linear), and saturation regions.
+- Used Siliwiz to visualize MOSFET structures, doping profiles, and carrier movement inside the device.
+- Performed simulations in Siliwiz to observe the effect of gate voltage on channel formation and transistor operation.
