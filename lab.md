@@ -6,4 +6,3 @@ Maintain Lab notebook here.
 
 ## Below is the results of the commands as given in the experiment
 
-![Screenshot 2026-06-04 14-47-33](images/Screenshot%202026-06-04%2014-47-33.png)
