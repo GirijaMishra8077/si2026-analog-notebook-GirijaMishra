@@ -26,4 +26,8 @@ Here is the output obtained by ngspice:
 
 Below is the schematic of the current mirror we are going to design:
 
+![Screenshot 15-28-10](./images/Screenshot%20from%202026-06-12%2015-28-10.png)
+
 Here is the layout of the same using Magic:
+
+![Screenshot 15-27-35](./images/Screenshot%20from%202026-06-12%2015-27-35.png)
