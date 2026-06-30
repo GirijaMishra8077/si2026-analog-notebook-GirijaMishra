@@ -10,7 +10,7 @@ Below is the results of the commands as given in the experiment
 
 # Lab : Modeling of MEMs Microphone and Analog Front-Edn (AFE)
 
-Below is the schematic of the MEMs Microphone
+Below is the schematic of the MEMs Microphone:
 
 We have to plot Vout in decibels and phase of the transfer function and using .MEASURE or (MEASURE in control), measure the following:
 
@@ -21,3 +21,9 @@ We have to plot Vout in decibels and phase of the transfer function and using .M
 So we have the following commands to implement the same:
 
 Here is the output obtained by ngspice:
+
+# Lab : Layout Design of Current Mirror
+
+Below is the schematic of the current mirror we are going to design:
+
+Here is the layout of the same using Magic:
