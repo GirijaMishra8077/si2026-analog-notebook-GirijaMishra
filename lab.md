@@ -28,11 +28,11 @@ Ngspice showing simulation results:
 
 RC CIrcuit Response for T>>τ:
 
-![43](./images/43.png)
+![44](./images/44.png)
 
 RC CIrcuit Response for T<<τ:
 
-![44](./images/44.png)
+![43](./images/43.png)
 
 ### 2) AC Analysis
 
