@@ -2,7 +2,7 @@
 
 # Lab0: ADALM Orientation
 
-# Lab 1: Voltage Source and DC Measurement
+# Activity 1: Voltage Source and DC Measurement
 
 ## Objective
 
@@ -64,7 +64,7 @@ Measure the output voltage of a resistor divider using the ADALM2000 voltmeter.
 
 The resistor divider circuit is designed like this:
 
-![54](./54.png)
+![54](./54.jpeg)
 
 ## Observation
 
