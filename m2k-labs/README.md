@@ -17,4 +17,12 @@ Recorded the measured values for each supply setting.
 
 ## Observations
 
+For 3 V:
+
+![55](./55.png)
+
+For 4 V:
+
+![56](./56.png)
+
 The measured voltages closely matched the applied supply voltages, with only minor variations due to measurement accuracy and component tolerances.
