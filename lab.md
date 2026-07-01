@@ -36,6 +36,36 @@ Here is the phase and gain plot:
 
 ![Screenshot 10-29-25](./images/Screenshot%20from%202026-06-02%2010-29-25.png)
 
+# Lab : Differential Amplifier Using Current Mirror
+
+## Single-Stage Differential Amplifier 
+
+### 1) DC Analysis
+
+Here is the schematic of the differential amplifier using current mirror:
+
+![Screenshot 11-48-20](./sch/Screenshot%20from%202026-06-11%2011-48-20.png)
+
+The mentioned voltages in the schematic are as follows:
+
+![Screenshot 11-48-43](./images/Screenshot%20from%202026-06-11%2011-48-43.png)
+
+The mentioned currents in the schematic are as follows:
+
+![Screenshot 11-48-54](./images/Screenshot%20from%202026-06-11%2011-48-54.png)
+
+## Double-Stage Differential Amplifier 
+
+### 1) DC Analysis
+
+Here is the schematic of the differential amplifier using current mirror:
+
+![Screenshot 15-22-04](./sch/Screenshot%20from%202026-06-12%2015-22-04.png)
+
+The mentioned voltages in the schematic are as follows:
+
+The mentioned currents in the schematic are as follows:
+
 # Lab : Layout Design of Current Mirror
 
 Below is the schematic of the NMOS current mirror, whose layout we are going to design:
