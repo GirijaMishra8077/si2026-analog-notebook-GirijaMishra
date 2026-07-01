@@ -56,6 +56,8 @@ We need to find the DC Transfer Characteristics, Gain and Operating Point Analys
 
 The Schematic along with list of commands is given below:
 
+![6](./sch/6.png)
+
 DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
 
 DC Output sweep characteristics obtained from variation of Vout with Vin:
@@ -65,6 +67,8 @@ DC Output sweep characteristics obtained from variation of Vout with Vin:
 AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurements.
 
 The Schematic along with list of commands to find gain and phase plots is given below:
+
+![9](./sch/9.png)
 
 The Gain plot showing midband gain and the frequency response of the amplifier:
 
@@ -78,6 +82,8 @@ We need to find the DC Transfer Characteristics, Gain and Operating Point Analys
 
 The Schematic along with list of commands is given below:
 
+![12](./sch/12.png)
+
 DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
 
 DC Output sweep characteristics obtained from variation of Vout with Vin:
@@ -87,6 +93,8 @@ DC Output sweep characteristics obtained from variation of Vout with Vin:
 AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurements.
 
 The Schematic along with list of commands to find gain and phase plots is given below:
+
+![15](./sch/15.png)
 
 The Gain plot showing midband gain and the frequency response of the amplifier:
 
@@ -100,6 +108,8 @@ We need to find the DC Transfer Characteristics, Gain and Operating Point Analys
 
 The Schematic along with list of commands is given below:
 
+![18](./sch/18.png)
+
 DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
 
 DC Output sweep characteristics obtained from variation of Vout with Vin:
@@ -109,6 +119,8 @@ DC Output sweep characteristics obtained from variation of Vout with Vin:
 AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurements.
 
 The Schematic along with list of commands to find gain and phase plots is given below:
+
+![21](./sch/21.png)
 
 The Gain plot showing midband gain and the frequency response of the amplifier:
 
