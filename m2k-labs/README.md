@@ -131,5 +131,50 @@ Q3. Why is the oscilloscope connected to the waveform generator?
 
 Ans: To observe and verify the generated signal.
 
+# Activity 4: Oscilloscope
 
+## Objective
+
+Observe and measure waveform parameters using the ADALM2000 oscilloscope.
+
+## Procedure
+
+-Displayed the generated waveform on Oscilloscope Channel 1.
+-Adjusted the volts/div and time/div settings for a clear display.
+-Measured the peak-to-peak voltage and time period of the waveform.
+-Calculated the frequency using the measured time period.
+
+## Observation
+
+![60](./60.png)
+
+The measured frequency was approximately 1 kHz, matching the waveform generator setting.
+
+## Calculation
+
+Frequency = 1 / Time Period
+
+So if T = 1 ms, then f = 1 kHz
+
+## Conclusion
+
+Verified the operation of the oscilloscope and measured waveform parameters accurately.
+
+## Questions & Answers
+
+Q1. How does changing the time/div setting affect the displayed waveform?
+
+Ans: It changes the horizontal scale, showing more or fewer waveform cycles.
+
+Q2. How does changing the volts/div setting affect the displayed waveform?
+
+Ans: It changes the vertical scale, making the waveform appear larger or smaller.
+
+Q3. Why is triggering important for a stable display?
+
+Ans: It synchronizes the waveform, producing a steady and stable display.
+
+Q4. Compare the measured frequency with the generator setting. Are they close?
+
+Ans: Yes, the measured frequency was very close to the generator setting, with only minor measurement error.
 
