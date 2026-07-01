@@ -26,9 +26,15 @@ So we have the following commands to implement the same:
 
 Here is the output obtained by ngspice:
 
+![Screenshot 10-29-06](./images/Screenshot%20from%202026-06-02%2010-29-06.png)
+
 Here is the plot between Vin and Vout:
 
+![Screenshot 10-29-40](./images/Screenshot%20from%202026-06-02%2010-29-40.png)
+
 Here is the phase and gain plot:
+
+![Screenshot 10-29-25](./images/Screenshot%20from%202026-06-02%2010-29-25.png)
 
 # Lab : Layout Design of Current Mirror
 
