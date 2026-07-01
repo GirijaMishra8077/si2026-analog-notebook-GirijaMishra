@@ -8,6 +8,49 @@ Below is the results of the commands as given in the experiment
 
 ![Screenshot 14-47-33](./images/Screenshot%20from%202026-06-04%2014-47-33.png)
 
+# Lab : First Order RC FIlters
+
+## Low pass filter
+
+### 1) DC Analysis
+
+Schematic of RC Circuit is given below:
+
+Testbench of RC Circuit is given below:
+
+Ngspice showing simulation results:
+
+RC CIrcuit Response for T>>τ:
+
+RC CIrcuit Response for T<<τ:
+
+### 2) AC Analysis
+
+Magnitude and Phase Response of the RC Circuit:
+ 
+Input and Output Voltage Response of the RC Circuit:
+
+## High pass filter
+
+### 1) DC Analysis
+
+Schematic of RC Circuit is given below:
+
+Testbench of RC Circuit is given below:
+
+Ngspice showing simulation results:
+
+RC CIrcuit Response for T>>τ:
+
+RC CIrcuit Response for T<<τ:
+
+### 2) AC Analysis
+
+Magnitude and Phase Response of the RC Circuit:
+ 
+Input and Output Voltage Response of the RC Circuit:
+
+
 # Lab : Modeling of MEMs Microphone and Analog Front-Edn (AFE)
 
 Below is the schematic of the MEMs Microphone:
