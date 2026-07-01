@@ -16,19 +16,33 @@ Below is the results of the commands as given in the experiment
 
 Schematic of RC Circuit is given below:
 
+![40](./sch/40.png)
+
 Testbench of RC Circuit is given below:
+
+![41](./sch/41.png)
 
 Ngspice showing simulation results:
 
+![42](./images/42.png)
+
 RC CIrcuit Response for T>>τ:
 
+![43](./images/43.png)
+
 RC CIrcuit Response for T<<τ:
+
+![44](./images/44.png)
 
 ### 2) AC Analysis
 
 Magnitude and Phase Response of the RC Circuit:
+
+![45](./images/45.png)
  
 Input and Output Voltage Response of the RC Circuit:
+
+![46](./images/46.png)
 
 ## High pass filter
 
@@ -36,20 +50,33 @@ Input and Output Voltage Response of the RC Circuit:
 
 Schematic of RC Circuit is given below:
 
+![47](./sch/47.png)
+
 Testbench of RC Circuit is given below:
+
+![48](./sch/48.png)
 
 Ngspice showing simulation results:
 
+![49](./images/49.png)
+
 RC CIrcuit Response for T>>τ:
 
+![50](./images/50.png)
+
 RC CIrcuit Response for T<<τ:
+
+![51](./images/51.png)
 
 ### 2) AC Analysis
 
 Magnitude and Phase Response of the RC Circuit:
+
+![52](./images/52.png)
  
 Input and Output Voltage Response of the RC Circuit:
 
+![53](./images/53.png)
 
 # Lab : Modeling of MEMs Microphone and Analog Front-Edn (AFE)
 
