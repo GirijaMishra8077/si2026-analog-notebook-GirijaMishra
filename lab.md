@@ -36,6 +36,84 @@ Here is the phase and gain plot:
 
 ![Screenshot 10-29-25](./images/Screenshot%20from%202026-06-02%2010-29-25.png)
 
+Now we have MEMS Microphone circuit for different input frequencies:
+
+Now ngspice output showing gain at different input frequencies:
+
+Finally, MEMS Microphone circuit with an Additional Single Pole:
+
+The ngspice output for Microphone response with an Additional Single Pole:
+
+The gain & output voltage response of Microphone with an Additional Single Pole:
+
+# Lab : Different Amplifiers Using MOSFETs
+
+## NMOS Resistive Load Amplifier
+
+### 1) DC Analysis
+
+We need to find the DC Transfer Characteristics, Gain and Operating Point Analysis.
+
+The Schematic along with list of commands is given below:
+
+DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
+
+DC Output sweep characteristics obtained from variation of Vout with Vin:
+
+### 2) AC Analysis
+
+AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurements.
+
+The Schematic along with list of commands to find gain and phase plots is given below:
+
+The Gain plot showing midband gain and the frequency response of the amplifier:
+
+The Phase plot showing Phase variation with frequency obtained from AC analysis:
+
+## NMOS-PMOS Load Amplifier: 
+
+### 1) DC Analysis
+
+We need to find the DC Transfer Characteristics, Gain and Operating Point Analysis.
+
+The Schematic along with list of commands is given below:
+
+DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
+
+DC Output sweep characteristics obtained from variation of Vout with Vin:
+
+### 2) AC Analysis
+
+AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurements.
+
+The Schematic along with list of commands to find gain and phase plots is given below:
+
+The Gain plot showing midband gain and the frequency response of the amplifier:
+
+The Phase plot showing Phase variation with frequency obtained from AC analysis:
+
+### PMOS Resistive Load Amplifier
+
+### 1) DC Analysis
+
+We need to find the DC Transfer Characteristics, Gain and Operating Point Analysis.
+
+The Schematic along with list of commands is given below:
+
+DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
+
+DC Output sweep characteristics obtained from variation of Vout with Vin:
+
+### 2) AC Analysis
+
+AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurements.
+
+The Schematic along with list of commands to find gain and phase plots is given below:
+
+The Gain plot showing midband gain and the frequency response of the amplifier:
+
+The Phase plot showing Phase variation with frequency obtained from AC analysis:
+
 # Lab : Differential Amplifier Using Current Mirror
 
 ## Single-Stage Differential Amplifier 
