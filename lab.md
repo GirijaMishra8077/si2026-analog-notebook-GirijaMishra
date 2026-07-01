@@ -54,6 +54,24 @@ The mentioned currents in the schematic are as follows:
 
 ![Screenshot 11-48-54](./images/Screenshot%20from%202026-06-11%2011-48-54.png)
 
+### 2) AC Analysis
+
+Here is the schematic of the differential amplifier using current mirror, for AC analysis:
+
+![Screenshot 12-34-42](./sch/Screenshot%20from%202026-06-11%2012-34-42.png)
+
+Input voltages are as follows:
+
+![Screenshot 12-35-12](./images/Screenshot%20from%202026-06-11%2012-35-12.png)
+
+Output voltage is as follows:
+
+![Screenshot 12-35-21](./images/Screenshot%20from%202026-06-11%2012-35-21.png)
+
+Bode plot of the response is given below:
+
+![Screenshot 12-35-01](./images/Screenshot%20from%202026-06-11%2012-35-01.png)
+
 ## Double-Stage Differential Amplifier 
 
 ### 1) DC Analysis
@@ -69,6 +87,24 @@ The mentioned voltages in the schematic are as follows:
 The mentioned currents in the schematic are as follows:
 
 ![Screenshot 15-12-45](./images/Screenshot%20from%202026-06-12%2015-12-45.png)
+
+### 2) AC Analysis
+
+Here is the schematic of the differential amplifier using current mirror, for AC analysis:
+
+![Screenshot 15-22-04](./sch/Screenshot%20from%202026-06-12%2015-22-04.png)
+
+Input voltages are as follows:
+
+![Screenshot 15-24-18](./images/Screenshot%20from%202026-06-12%2015-24-18.png)
+
+Output voltage is as follows:
+
+![Screenshot 15-24-09](./images/Screenshot%20from%202026-06-12%2015-24-09.png)
+
+Bode plot of the response is given below:
+
+![Screenshot 15-23-59](./images/Screenshot%20from%202026-06-12%2015-23-59.png)
 
 # Lab : Layout Design of Current Mirror
 
