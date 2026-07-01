@@ -64,7 +64,11 @@ Here is the schematic of the differential amplifier using current mirror:
 
 The mentioned voltages in the schematic are as follows:
 
+![Screenshot 15-12-36](./images/Screenshot%20from%202026-06-12%2015-12-36.png)
+
 The mentioned currents in the schematic are as follows:
+
+![Screenshot 15-12-45](./images/Screenshot%20from%202026-06-12%2015-12-45.png)
 
 # Lab : Layout Design of Current Mirror
 
