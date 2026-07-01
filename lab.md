@@ -168,43 +168,75 @@ The Phase plot showing Phase variation with frequency obtained from AC analysis:
  
 For Basic Current Mirror of L=0.54µm, the schematic is given for DC analysis:
 
+![24](./sch/24.png)
+
 DC transfer characteristic illustrating the relationship between Iref and Iout:
+
+![25](./images/25.png)
 
 Gate voltage (VG) operating point corresponding to the current mirror bias conditions:
 
+![26](./images/26.png)
+
 For Basic Current Mirror of L=2µm, the schematic is given for input resistance:
+
+![27](./sch/27.png)
 
 Input Resistance Calculation – VGS vs. IREF Variation:
 
+![28](./images/28.png)
+
 For Basic Current Mirror of L=2µm, the schematic is given for output resistance:
 
+![29](./sch/29.png)
+
 IREF vs IOUT DC transfer characteristics:
+
+![30](./images/30.png)
 
 ### 2) AC Analysis
 
 For Basic Current Mirror of L=2µm, the schematic is given for AC analysis:
 
+![31](./sch/31.png)
+
 Step Current Input – Output Current Response is given by:
 
+![32](./images/32.png)
+
 Step Current Input – IREF and IOUT Transient comparison: 
+
+![33](./images/33.png)
 
 ## NMOS Cascode Current Mirror
 
 For Cascode Current Mirror of L=2µm, the schematic is given for DC analysis:
 
+![34](./sch/34.png)
+
 DC transfer characteristic illustrating the relationship between Iref and Iout:
+
+![35](./images/35.png)
 
 ## PMOS Basic Current Mirror
  
 For PMOS Basic Current Mirror, the schematic is given for DC analysis:
 
+![36](./sch/36.png)
+
 DC transfer characteristic illustrating the relationship between Iref and Iout:
+
+![37](./images/37.png)
 
 ## PMOS Cascode Current Mirror
 
 For PMOS Cascode Current Mirror, the schematic is given for DC analysis:
 
+![38](./sch/38.png)
+
 DC transfer characteristic illustrating the relationship between Iref and Iout:
+
+![39](./images/39.png)
 
 # Lab : Differential Amplifier Using Current Mirror
 
