@@ -19,10 +19,30 @@ Recorded the measured values for each supply setting.
 
 For 3 V:
 
-![55](./55.png)
+![56](./56.png)
 
 For 4 V:
 
-![56](./56.png)
+![55](./55.png)
 
 The measured voltages closely matched the applied supply voltages, with only minor variations due to measurement accuracy and component tolerances.
+
+## Conclusion
+
+Verified the operation of the ADALM2000 DC power supply and Scopy voltmeter, and understood the importance of proper grounding and safe circuit connections.
+
+## Questions & Answers
+
+Q1. Why is the measured voltage not always exactly equal to the set value?
+
+Ans: Due to instrument accuracy limits, component tolerances, and measurement uncertainty.
+
+Q2. What is the role of the ground (reference) connection in this circuit?
+
+Ans: It provides a common reference point and completes the electrical circuit for accurate measurements.
+
+Q3. Why should the power supply be turned off before changing the circuit wiring?
+
+Ans: To prevent short circuits, protect the components, and ensure user safety.
+
+
