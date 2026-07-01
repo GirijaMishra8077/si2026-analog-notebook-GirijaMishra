@@ -12,6 +12,8 @@ Below is the results of the commands as given in the experiment
 
 Below is the schematic of the MEMs Microphone:
 
+![Screenshot 16-11-35](./sch/Screenshot%20from%202026-06-03%2016-11-35.png)
+
 We have to plot Vout in decibels and phase of the transfer function and using .MEASURE or (MEASURE in control), measure the following:
 
 - The magnitude in decibel of Vout at 1 kHz
