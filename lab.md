@@ -40,8 +40,8 @@ Here is the phase and gain plot:
 
 Below is the schematic of the NMOS current mirror, whose layout we are going to design:
 
-![Screenshot 15-28-10](./images/Screenshot%20from%202026-06-12%2015-28-10.png)
+![Screenshot 15-28-10](./sch/Screenshot%20from%202026-06-12%2015-28-10.png)
 
 Here is the layout of the same using Magic:
 
-![Screenshot 15-27-35](./images/Screenshot%20from%202026-06-12%2015-27-35.png)
+![Screenshot 15-27-35](./mag/Screenshot%20from%202026-06-12%2015-27-35.png)
