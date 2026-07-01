@@ -113,19 +113,22 @@ Generate and observe different waveforms using the ADALM2000 waveform generator.
 
 Both sine and square waves were generated successfully and displayed correctly on the oscilloscope.
 
-Conclusion
+## Conclusion
 
 Verified the operation of the ADALM2000 waveform generator and learned to generate and observe different signal waveforms.
 
-Questions & Answers
+## Questions & Answers
 
 Q1. Why is a waveform generator used?
+
 Ans: To generate test signals for analyzing and testing electronic circuits.
 
 Q2. What is the effect of changing the waveform from sine to square?
+
 Ans: The output shape changes while the frequency remains the same.
 
 Q3. Why is the oscilloscope connected to the waveform generator?
+
 Ans: To observe and verify the generated signal.
 
 
