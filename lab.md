@@ -38,13 +38,23 @@ Here is the phase and gain plot:
 
 Now we have MEMS Microphone circuit for different input frequencies:
 
+![01](./sch/01.png)
+
 Now ngspice output showing gain at different input frequencies:
+
+![02](./images/02.png)
 
 Finally, MEMS Microphone circuit with an Additional Single Pole:
 
+![03](./sch/06.png)
+
 The ngspice output for Microphone response with an Additional Single Pole:
 
+![04](./images/04.png)
+
 The gain & output voltage response of Microphone with an Additional Single Pole:
+
+![05](./images/05.png)
 
 # Lab : Different Amplifiers Using MOSFETs
 
