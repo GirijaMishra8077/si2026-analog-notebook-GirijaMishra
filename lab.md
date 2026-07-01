@@ -22,7 +22,13 @@ We have to plot Vout in decibels and phase of the transfer function and using .M
 
 So we have the following commands to implement the same:
 
+![Screenshot 140727](./images/Screenshot%202026-07-01%20140727.png)
+
 Here is the output obtained by ngspice:
+
+Here is the plot between Vin and Vout:
+
+Here is the phase and gain plot:
 
 # Lab : Layout Design of Current Mirror
 
