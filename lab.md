@@ -56,11 +56,15 @@ We need to find the DC Transfer Characteristics, Gain and Operating Point Analys
 
 The Schematic along with list of commands is given below:
 
-![6](./sch/6.png)
+![06](./sch/06.png)
 
 DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
 
+![07](./images/07.png)
+
 DC Output sweep characteristics obtained from variation of Vout with Vin:
+
+![08](./images/08.png)
 
 ### 2) AC Analysis
 
@@ -68,11 +72,15 @@ AC Analysis includes Gain, Phase, Bandwidth and Unity Gain Frequency measurement
 
 The Schematic along with list of commands to find gain and phase plots is given below:
 
-![9](./sch/9.png)
+![09](./sch/09.png)
 
 The Gain plot showing midband gain and the frequency response of the amplifier:
 
+![10](./images/10.png)
+
 The Phase plot showing Phase variation with frequency obtained from AC analysis:
+
+![11](./images/11.png)
 
 ## NMOS-PMOS Load Amplifier: 
 
@@ -86,7 +94,11 @@ The Schematic along with list of commands is given below:
 
 DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
 
+![13](./images/13.png)
+
 DC Output sweep characteristics obtained from variation of Vout with Vin:
+
+![14](./images/14.png)
 
 ### 2) AC Analysis
 
@@ -98,7 +110,11 @@ The Schematic along with list of commands to find gain and phase plots is given 
 
 The Gain plot showing midband gain and the frequency response of the amplifier:
 
+![16](./images/16.png)
+
 The Phase plot showing Phase variation with frequency obtained from AC analysis:
+
+![17](./images/17.png)
 
 ### PMOS Resistive Load Amplifier
 
@@ -112,7 +128,11 @@ The Schematic along with list of commands is given below:
 
 DC Transfer characteristics gain obtained from Vout-Vin curve in transition region:
 
+![19](./images/19.png)
+
 DC Output sweep characteristics obtained from variation of Vout with Vin:
+
+![20](./images/20.png)
 
 ### 2) AC Analysis
 
@@ -124,7 +144,11 @@ The Schematic along with list of commands to find gain and phase plots is given 
 
 The Gain plot showing midband gain and the frequency response of the amplifier:
 
+![22](./images/22.png)
+
 The Phase plot showing Phase variation with frequency obtained from AC analysis:
+
+![23](./images/23.png)
 
 # Lab : Differential Amplifier Using Current Mirror
 
