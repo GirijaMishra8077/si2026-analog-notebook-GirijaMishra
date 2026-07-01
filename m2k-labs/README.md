@@ -94,5 +94,39 @@ Q3. How would the midpoint voltage change if one resistor were much larger than 
 
 Ans: The midpoint voltage shifts toward the end connected to the larger resistor, following the voltage-divider rule.
 
+# Activity 3: Waveform Generator
+
+## Objective
+
+Generate and observe different waveforms using the ADALM2000 waveform generator.
+
+## Procedure
+
+- Connected W1 of the waveform generator to Oscilloscope Channel 1.
+- Generated a 1 kHz, 1 Vpp sine wave with 0 V offset.
+- Observed the waveform using the Scopy oscilloscope.
+- Changed the output waveform from sine to square while keeping the same frequency.
+
+## Observation
+
+![59](./59.png)
+
+Both sine and square waves were generated successfully and displayed correctly on the oscilloscope.
+
+Conclusion
+
+Verified the operation of the ADALM2000 waveform generator and learned to generate and observe different signal waveforms.
+
+Questions & Answers
+
+Q1. Why is a waveform generator used?
+Ans: To generate test signals for analyzing and testing electronic circuits.
+
+Q2. What is the effect of changing the waveform from sine to square?
+Ans: The output shape changes while the frequency remains the same.
+
+Q3. Why is the oscilloscope connected to the waveform generator?
+Ans: To observe and verify the generated signal.
+
 
 
