@@ -2,13 +2,13 @@
 
 Maintain Lab notebook here.
 
-# Lab 0: Linux, vim and git
+# Lab 0: Linux, vim and git (25-05-2026)
 
 Below is the results of the commands as given in the experiment
 
 ![Screenshot 14-47-33](./images/Screenshot%20from%202026-06-04%2014-47-33.png)
 
-# Lab : First Order RC FIlters
+# Lab 1: First Order RC FIlters (27-05-2026)
 
 ## Low pass filter
 
@@ -78,7 +78,7 @@ Input and Output Voltage Response of the RC Circuit:
 
 ![53](./images/53.png)
 
-# Lab : Modeling of MEMs Microphone and Analog Front-Edn (AFE)
+# Lab 2: Modeling of MEMs Microphone and Analog Front-Edn (AFE) (30-05-2026)
 
 Below is the schematic of the MEMs Microphone:
 
@@ -126,7 +126,7 @@ The gain & output voltage response of Microphone with an Additional Single Pole:
 
 ![05](./images/05.png)
 
-# Lab : Different Amplifiers Using MOSFETs
+# Lab 3: Different Amplifiers Using MOSFETs (09-06-2026)
 
 ## NMOS Resistive Load Amplifier
 
@@ -230,7 +230,7 @@ The Phase plot showing Phase variation with frequency obtained from AC analysis:
 
 ![23](./images/23.png)
 
-# Lab : Current Mirror Circuits
+# Lab 4: Current Mirror Circuits (10-06-2026)
 
 ## NMOS Basic Current Mirror
 
@@ -308,7 +308,7 @@ DC transfer characteristic illustrating the relationship between Iref and Iout:
 
 ![39](./images/39.png)
 
-# Lab : Differential Amplifier Using Current Mirror
+# Lab 5: Differential Amplifier Using Current Mirror (11-06-2026)
 
 ## Single-Stage Differential Amplifier 
 
@@ -378,7 +378,7 @@ Bode plot of the response is given below:
 
 ![Screenshot 15-23-59](./images/Screenshot%20from%202026-06-12%2015-23-59.png)
 
-# Lab : Layout Design of Current Mirror
+# Lab 6: Layout Design of Current Mirror (12-06-2026)
 
 Below is the schematic of the NMOS current mirror, whose layout we are going to design:
 
