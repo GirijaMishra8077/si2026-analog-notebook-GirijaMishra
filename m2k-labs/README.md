@@ -139,10 +139,10 @@ Observe and measure waveform parameters using the ADALM2000 oscilloscope.
 
 ## Procedure
 
--Displayed the generated waveform on Oscilloscope Channel 1.
--Adjusted the volts/div and time/div settings for a clear display.
--Measured the peak-to-peak voltage and time period of the waveform.
--Calculated the frequency using the measured time period.
+- Displayed the generated waveform on Oscilloscope Channel 1.
+- Adjusted the volts/div and time/div settings for a clear display.
+- Measured the peak-to-peak voltage and time period of the waveform.
+- Calculated the frequency using the measured time period.
 
 ## Observation
 
