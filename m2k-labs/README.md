@@ -257,7 +257,7 @@ As there is no 1.5k resistor avaialble, so we connected 1.2k and 330 Ω resistor
 
 The divider produced approximately 1.5 V under no-load conditions. The output voltage decreased with heavier loads due to the Thévenin resistance.
 
-The current was measured using multimeter and was found to be 0.94 mA, which is nearly same as target value.
+The current was measured using multimeter and was found to be 0.94 mA, which is nearly same as target value of 1 mA.
 
 ## Conclusion
 
