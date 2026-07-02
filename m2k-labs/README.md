@@ -283,7 +283,7 @@ High-resolution frequency-domain analysis of a sine wave showing precise spectra
 
 The RC Circuit connection is given below:
 
-![65](./65.jpeg)
+![65](./65.jpg)
 
 The RC Response for T > τ is given below:
 
@@ -301,7 +301,7 @@ The Bode Plot of RC Low Pass Filter is given below:
 
 The RC Circuit connection is given below:
 
-![69](./69.png)
+![69](./69.jpeg)
 
 The RC Response for T > τ is given below:
 
