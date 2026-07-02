@@ -262,3 +262,51 @@ The current was measured using multimeter and was found to be 0.94 mA, which is 
 ## Conclusion
 
 Verified the operation of a resistor divider and understood the effect of loading using Thévenin equivalent analysis.
+
+# Lab 3: FFT: Sine Vs Square
+
+Frequency-domain representation comparing sine and square signals, highlighting harmonic structure where sine shows a single dominant peak and square wave exhibits multiple harmonic components:
+
+![62](./62.png)
+
+Frequency-domain analysis of a pure sine wave showing a single dominant peak at the fundamental frequency, demonstrating minimal harmonic distortion:
+
+![63](./63.png)
+
+High-resolution frequency-domain analysis of a sine wave showing precise spectral components, noise floor behavior, and improved frequency resolution compared to basic FFT visualization:
+
+![64](./64.png)
+
+# Lab 4 RC Transient Response And Bode Plot
+
+## Low Pass Filter
+
+The RC Circuit connection is given below:
+
+![65](./65.jpeg)
+
+The RC Response for T > τ is given below:
+
+![66](./66.png)
+
+The RC Response for T < τ is given below:
+
+![67](./67.png)
+
+The Bode Plot of RC Low Pass Filter is given below:
+
+![68](./68.png)
+
+## High Pass Filter
+
+The RC Circuit connection is given below:
+
+![69](./69.png)
+
+The RC Response for T > τ is given below:
+
+![70](./70.png)
+
+The RC Response for T < τ is given below:
+
+![71](./71.png)
