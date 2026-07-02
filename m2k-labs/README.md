@@ -303,7 +303,7 @@ The divider requires equal resistors.
 
 ---
 
-## Final Values
+### Final Values
 
 | Parameter | Value |
 |-----------|:-----:|
@@ -314,9 +314,15 @@ The divider requires equal resistors.
 | Thévenin Voltage (VTH) | **1.5 V** |
 | Thévenin Resistance (RTH) | **750 Ω** |
 
-## Resistor Used
+### Resistor Used
 
 As there is no 1.5k resistor avaialble, so we connected 1.2k and 330 Ω resistor in series which nearly equals 1.5k for the experiment.
+
+## Circuit Diagram
+
+The resistor divider circuit is designed like this:
+
+![75](./75.jpeg)
 
 ## Observation
 
