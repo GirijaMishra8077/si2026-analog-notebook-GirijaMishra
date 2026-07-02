@@ -1,21 +1,21 @@
-# ADALM 2000 Labs
+## ADALM 2000 Labs
 
-# Lab0: ADALM Orientation
+## Lab0: ADALM Orientation
 
-# Activity 1: Voltage Source and DC Measurement
+## Activity 1: Voltage Source and DC Measurement
 
-## Objective
+### Objective
 
 Generate a DC voltage using the ADALM2000 power supply and verify it using the Scopy voltmeter.
 
-## Procedure
+### Procedure
 
 - Built a circuit using a 1 kΩ resistor connected between the power supply and ground.
 - Set the positive supply to 3 V and 4 V using Scopy.
 - Measured the output voltage across the resistor using the voltmeter.
 - Recorded the measured values for each supply setting.
 
-## Observations
+### Observations
 
 For 3 V:
 
@@ -27,11 +27,11 @@ For 4 V:
 
 The measured voltages closely matched the applied supply voltages, with only minor variations due to measurement accuracy and component tolerances.
 
-## Conclusion
+### Conclusion
 
 Verified the operation of the ADALM2000 DC power supply and Scopy voltmeter, and understood the importance of proper grounding and safe circuit connections.
 
-## Questions & Answers
+### Questions & Answers
 
 Q1. Why is the measured voltage not always exactly equal to the set value?
 
@@ -45,13 +45,13 @@ Q3. Why should the power supply be turned off before changing the circuit wiring
 
 Ans: To prevent short circuits, protect the components, and ensure user safety.
 
-# Activity 2: Voltmeter and Resistance Check
+## Activity 2: Voltmeter and Resistance Check
 
-## Objective
+### Objective
 
 Measure the output voltage of a resistor divider using the ADALM2000 voltmeter.
 
-## Procedure
+### Procedure
 
 - Built a voltage divider using two 1 kΩ resistors in series.
 - Applied +3.0V first, across the divider.
@@ -60,13 +60,13 @@ Measure the output voltage of a resistor divider using the ADALM2000 voltmeter.
 - Measured the midpoint voltage with the Scopy voltmeter.
 - Compared the measured value with the theoretical value.
 
-## Circuit Diagram
+### Circuit Diagram
 
 The resistor divider circuit is designed like this:
 
 ![54](./54.jpeg)
 
-## Observation
+### Observation
 
 ![57](./57.png)
 
@@ -76,11 +76,11 @@ The measured midpoint voltage was approximately 1.5 V, which closely matched the
 
 The measured midpoint voltage was approximately 2.0 V, which closely matched the expected value.
 
-## Conclusion
+### Conclusion
 
 Verified the operation of a voltage divider and the use of the ADALM2000 voltmeter for DC voltage measurements.
 
-## Questions & Answers
+### Questions & Answers
 
 Q1. Why must resistance be measured only when the circuit is unpowered?
 
@@ -94,30 +94,30 @@ Q3. How would the midpoint voltage change if one resistor were much larger than 
 
 Ans: The midpoint voltage shifts toward the end connected to the larger resistor, following the voltage-divider rule.
 
-# Activity 3: Waveform Generator
+## Activity 3: Waveform Generator
 
-## Objective
+### Objective
 
 Generate and observe different waveforms using the ADALM2000 waveform generator.
 
-## Procedure
+### Procedure
 
 - Connected W1 of the waveform generator to Oscilloscope Channel 1.
 - Generated a 1 kHz, 1 Vpp sine wave with 0 V offset.
 - Observed the waveform using the Scopy oscilloscope.
 - Changed the output waveform from sine to square while keeping the same frequency.
 
-## Observation
+### Observation
 
 ![59](./59.png)
 
 Both sine and square waves were generated successfully and displayed correctly on the oscilloscope.
 
-## Conclusion
+### Conclusion
 
 Verified the operation of the ADALM2000 waveform generator and learned to generate and observe different signal waveforms.
 
-## Questions & Answers
+### Questions & Answers
 
 Q1. Why is a waveform generator used?
 
@@ -131,36 +131,36 @@ Q3. Why is the oscilloscope connected to the waveform generator?
 
 Ans: To observe and verify the generated signal.
 
-# Activity 4: Oscilloscope
+## Activity 4: Oscilloscope
 
-## Objective
+### Objective
 
 Observe and measure waveform parameters using the ADALM2000 oscilloscope.
 
-## Procedure
+### Procedure
 
 - Displayed the generated waveform on Oscilloscope Channel 1.
 - Adjusted the volts/div and time/div settings for a clear display.
 - Measured the peak-to-peak voltage and time period of the waveform.
 - Calculated the frequency using the measured time period.
 
-## Observation
+### Observation
 
 ![60](./60.png)
 
 The measured frequency was approximately 1 kHz, matching the waveform generator setting.
 
-## Calculation
+### Calculation
 
 Frequency = 1 / Time Period
 
 So if T = 1 ms, then f = 1 kHz
 
-## Conclusion
+### Conclusion
 
 Verified the operation of the oscilloscope and measured waveform parameters accurately.
 
-## Questions & Answers
+### Questions & Answers
 
 Q1. How does changing the time/div setting affect the displayed waveform?
 
@@ -177,4 +177,3 @@ Ans: It synchronizes the waveform, producing a steady and stable display.
 Q4. Compare the measured frequency with the generator setting. Are they close?
 
 Ans: Yes, the measured frequency was very close to the generator setting, with only minor measurement error.
-
