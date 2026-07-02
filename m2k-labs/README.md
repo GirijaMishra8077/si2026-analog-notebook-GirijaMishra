@@ -1,6 +1,73 @@
 # ADALM 2000 Labs
 
-# Lab0: ADALM Orientation
+# Lab 0: ADALM Orientation
+
+## Aim
+
+To familiarize yourself with the ADALM2000 board, its features, and pin configuration.
+
+## Introduction
+
+The **ADALM2000 (M2K)** is a USB-powered portable electronics laboratory developed by Analog Devices. It integrates multiple test and measurement instruments into a single device, including an oscilloscope, waveform generator, digital logic analyzer, digital pattern generator, voltmeter, and programmable power supplies.
+
+![72](./72.jpeg)
+
+## Features
+
+- Dual-channel Oscilloscope
+- Two-channel Arbitrary Waveform Generator
+- 16-channel Digital Input/Output
+- Programmable Dual Power Supply
+- USB Powered
+- Compatible with Scopy Software
+
+---
+
+## Pin Configuration
+
+![73](./73.jpeg)
+
+### Analog Pins
+
+| Pin | Function |
+|------|----------|
+| 1+ | Analog Input Channel 1 (+) |
+| 1− | Analog Input Channel 1 (−) |
+| 2+ | Analog Input Channel 2 (+) |
+| 2− | Analog Input Channel 2 (−) |
+| W1 | Waveform Generator Channel 1 |
+| W2 | Waveform Generator Channel 2 |
+
+### Digital Pins
+
+| Pin | Function |
+|------|----------|
+| DIO0–DIO15 | Digital Input/Output |
+
+### Power Pins
+
+| Pin | Function |
+|------|----------|
+| +5V | Fixed 5 V Output |
+| V+ | Positive Adjustable Supply |
+| V− | Negative Adjustable Supply |
+| GND | Ground |
+
+---
+
+## Working Principle
+The ADALM2000 communicates with a computer through USB and is controlled using the **Scopy** software. It can generate, measure, and analyze analog and digital signals while also supplying power to external circuits.
+
+## Applications
+- Analog circuit analysis
+- Digital logic experiments
+- Signal generation
+- Sensor interfacing
+- Embedded systems
+- Electronics education
+
+## Conclusion
+The ADALM2000 is a compact and versatile learning platform that combines multiple laboratory instruments into a single USB-powered device, making it ideal for electronics experiments.
 
 # Lab1: Introduction to ADALM 2000
 
