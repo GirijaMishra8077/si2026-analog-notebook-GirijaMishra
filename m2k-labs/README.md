@@ -10,7 +10,7 @@ To familiarize yourself with the ADALM2000 board, its features, and pin configur
 
 The **ADALM2000 (M2K)** is a USB-powered portable electronics laboratory developed by Analog Devices. It integrates multiple test and measurement instruments into a single device, including an oscilloscope, waveform generator, digital logic analyzer, digital pattern generator, voltmeter, and programmable power supplies.
 
-![72](./72.jpeg)
+![72](./72.jpg)
 
 ## Features
 
@@ -25,7 +25,7 @@ The **ADALM2000 (M2K)** is a USB-powered portable electronics laboratory develop
 
 ## Pin Configuration
 
-![73](./73.jpeg)
+![73](./73.jpg)
 
 ### Analog Pins
 
