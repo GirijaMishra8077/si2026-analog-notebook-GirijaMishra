@@ -1,6 +1,8 @@
-## ADALM 2000 Labs
+# ADALM 2000 Labs
 
-## Lab0: ADALM Orientation
+# Lab0: ADALM Orientation
+
+# Lab1: Introduction to ADALM 2000
 
 ## Activity 1: Voltage Source and DC Measurement
 
@@ -177,3 +179,86 @@ Ans: It synchronizes the waveform, producing a steady and stable display.
 Q4. Compare the measured frequency with the generator setting. Are they close?
 
 Ans: Yes, the measured frequency was very close to the generator setting, with only minor measurement error.
+
+# Lab 2: 1.5 V Source Using a Resistor Divider
+
+## Objective
+
+Design a resistor divider to generate 1.5 V from a 3 V supply and verify its Thévenin equivalent using the ADALM2000.
+
+## Procedure
+
+- Designed a two-resistor voltage divider to obtain 1.5 V from a 3 V DC source.
+- Calculated the Thévenin voltage and Thévenin resistance of the divider.
+- Measured the open-circuit output voltage using the Scopy voltmeter.
+- Connected different load resistors and observed the output voltage variation.
+- Compared the measured results with theoretical calculations.
+
+## Calculations
+
+### Given
+
+- Supply Voltage, **VCC = 3 V**
+- Required Output Voltage, **VOUT = 1.5 V**
+- Divider Current, **I ≈ 1 mA**
+
+### Step 1: Calculate Total Resistance
+
+Using Ohm's Law,
+
+**RTotal = VCC / I**
+
+= 3 V / 1 mA
+
+= **3 kΩ**
+
+### Step 2: Calculate Resistor Values
+
+Since,
+
+**VOUT = VCC / 2**
+
+The divider requires equal resistors.
+
+**R1 = R2 = 3 kΩ / 2 = 1.5 kΩ**
+
+### Step 3: Calculate Thévenin Voltage
+
+**VTH = VOUT = 1.5 V**
+
+### Step 4: Calculate Thévenin Resistance
+
+**RTH = R1 || R2**
+
+= (1.5 kΩ × 1.5 kΩ) / (1.5 kΩ + 1.5 kΩ)
+
+= **750 Ω**
+
+---
+
+## Final Values
+
+| Parameter | Value |
+|-----------|:-----:|
+| Supply Voltage (VCC) | **3 V** |
+| Resistor R1 | **1.5 kΩ** |
+| Resistor R2 | **1.5 kΩ** |
+| Divider Current | **1 mA** |
+| Thévenin Voltage (VTH) | **1.5 V** |
+| Thévenin Resistance (RTH) | **750 Ω** |
+
+## Resistor Used
+
+As there is no 1.5k resistor avaialble, so we connected 1.2k and 330 Ω resistor in series which nearly equals 1.5k for the experiment.
+
+# Observation
+
+![61](./61.png)
+
+The divider produced approximately 1.5 V under no-load conditions. The output voltage decreased with heavier loads due to the Thévenin resistance.
+
+The current was measured using multimeter and was found to be 0.94 mA, which is nearly same as target value.
+
+Conclusion
+
+Verified the operation of a resistor divider and understood the effect of loading using Thévenin equivalent analysis.
