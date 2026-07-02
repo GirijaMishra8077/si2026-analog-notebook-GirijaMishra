@@ -180,7 +180,7 @@ Q4. Compare the measured frequency with the generator setting. Are they close?
 
 Ans: Yes, the measured frequency was very close to the generator setting, with only minor measurement error.
 
-# Lab 2: 1.5 V Source Using a Resistor Divider
+# Lab 2: Voltage divider, Thevenin equivalance
 
 ## Objective
 
@@ -251,7 +251,7 @@ The divider requires equal resistors.
 
 As there is no 1.5k resistor avaialble, so we connected 1.2k and 330 Ω resistor in series which nearly equals 1.5k for the experiment.
 
-# Observation
+## Observation
 
 ![61](./61.png)
 
@@ -259,6 +259,6 @@ The divider produced approximately 1.5 V under no-load conditions. The output vo
 
 The current was measured using multimeter and was found to be 0.94 mA, which is nearly same as target value.
 
-Conclusion
+## Conclusion
 
 Verified the operation of a resistor divider and understood the effect of loading using Thévenin equivalent analysis.
